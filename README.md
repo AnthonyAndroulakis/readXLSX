@@ -1,2 +1,2 @@
 # readXLSX
-reading XLSX files in python
+reading XLSX files in python, customized for NiiStat
